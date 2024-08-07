@@ -1,0 +1,11 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+}
+
+.wrapper {
+    background-color: liner-gradient(#91DDCF,#F19ED2);
+    height: 100vh;
+    display: flex;
+    
+}
